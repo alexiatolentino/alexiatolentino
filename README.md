@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexiatolentino
 - 👀 I love coding in any form but my interests are mostly in games, graphics, and artificial intelligence!
-- 🌱 I am a Machine Learning and Data Science Specialist at the University of Toronto
+- 🌱 I am a Machine Learning and Data Science Graduate the University of Toronto
       and I am always looking for a new opportunity or experience to grow 
       and learn!
       I hope to grow this portfolio with fun projects that I am proud of!
